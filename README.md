@@ -1,6 +1,18 @@
 # spelunking
 Where I keep a list of open source projects to peruse
 
+For each project:
+
+- Repository
+- Age of project
+- Programming language(s)
+- Target platforms
+- Number of source files and lines
+- Compile time
+- Difficulty of getting build working
+- My observations
+- Suggested exercises
+
 # Open Source Code Bases
 
 ## Game Engines
@@ -51,6 +63,7 @@ Where I keep a list of open source projects to peruse
 - [st](https://git.suckless.org/st)
 - [mintty](https://github.com/mintty/mintty)
 - [gforth](https://git.savannah.gnu.org/git/gforth/)
+- [file](https://github.com/file/file)
 
 ## Libraries
 
@@ -90,3 +103,16 @@ Where I keep a list of open source projects to peruse
 - windirstat
 - paint.net
 - filezilla
+- X11
+- Icestorm
+- CUPS
+- vim
+- ssh
+- bash
+- ffmpeg
+- libz
+- libpng
+- imagemagick
+- sed
+- awk
+- grep
